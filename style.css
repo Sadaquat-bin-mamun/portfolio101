@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    font-family: 'Potta One', cursive;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+section{
+    height: 600px;
+}
+.Name-highlight{
+    color: firebrick;
+}
+.Rahat{
+    color: orangered;
+}
+.web-dev{
+    color: purple;
+}
+.City-Name{
+    color: midnightblue;
+}
+.call{
+    color: rgb(119, 17, 221);
+}
+.halfwidth{
+    width: 37%;
+    float: left;
+    margin: 3%;
+    padding-left: 4%;
+}
+.halfwidth img{
+    width: 100%;
+}
+.topb{
+    background-image: url(potos/top-banner.png);
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, rgb(77, 6, 80));
+    padding: 6px 13px;
+    color: white;
+}
+.level{
+    color: rebeccapurple;
+}
+.ben1{
+    font-family: 'Mina', sans-serif;
+}
+#down{
+    font-size: 7px;
+}
+.HSC-tg{
+    background-image: url(potos/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#loly{
+    
+}
+.experience{
+    background-image: url(potos/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 8px;
+    height: 90%;
+    background-position: left;
+}
+#full-stack{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg, red, rgb(250, 9, 250));
+    border-image-slice: 4;
+}
+#unexperienced-tutors{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg, rgb(138, 5, 138), rgb(11, 11, 88));
+    border-image-slice: 5;
+}
+footer p{
+    text-align: center;
+
+}
